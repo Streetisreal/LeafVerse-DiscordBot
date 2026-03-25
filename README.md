@@ -5,7 +5,7 @@ StreetVerse Discord Bot is a tool for discord servers.
 
 # Step 1: You need a computer
 
-If you do not have a computer then this will not work.
+If you do not have a computer then this will not work. You also need to create a bot on the discord dev portal and enable some intents, also enable all the perms just in case.
 
 # Step 2: Install pycharm
 
@@ -16,6 +16,6 @@ You need to run the script some how. Pycharm is very great for beginners.
 Make a new project, create the main.py file, and then c + v because I know this is for people to basically skid out of me 
 
 
-# This is not getting any updates anymore
+# Step 4: done
 
-Because I am tired of updating and updating the source code so for now, it will remain closed source, maybe ill update it in the future but who knows.
+enjoy the bot
